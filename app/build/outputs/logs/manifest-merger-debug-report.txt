@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\52341dcc0a3ccd10b56f88743d921cc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fae0ae65a01f8895508c07fe8546c60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c030d401212665198d6f5c972ca4e3c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\16aeaa6f1d47461f2ec9fd03cc6c4c62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\510a93bfe938ef6e9e532a4814cd72bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e88c62f5aca2ec077b9efad5efd87092\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\406c12d4cfd1b693632064dad5c33ef1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ca4fbd2b5a5637fe6945a5eb8f4af15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb5657b0458ecb71f9535e17d90f9d14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\934bda01f6b75fbb5e0fc1ade14798d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\35183d6274b5d27468a31c4d94b854bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c0a9751235348ff01e084e1bb9518ccb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c280fd0573c3aa5552254a7d112d24ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c7fbf3967f05e5a083dbc2ab91680d13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa667cc4bb42891a4967083b569181cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f270934e0cb23a95f7869baec3d31355\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\758bab5e00f3e87b0aa062ba548b23f8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c030d401212665198d6f5c972ca4e3c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c030d401212665198d6f5c972ca4e3c5\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.azeemuddin.textualrpg.StartGame
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:13:13-38
+activity#com.azeemuddin.textualrpg.MainMenu
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:16:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\52341dcc0a3ccd10b56f88743d921cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\52341dcc0a3ccd10b56f88743d921cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fae0ae65a01f8895508c07fe8546c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fae0ae65a01f8895508c07fe8546c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c030d401212665198d6f5c972ca4e3c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c030d401212665198d6f5c972ca4e3c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\16aeaa6f1d47461f2ec9fd03cc6c4c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\16aeaa6f1d47461f2ec9fd03cc6c4c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\510a93bfe938ef6e9e532a4814cd72bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\510a93bfe938ef6e9e532a4814cd72bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e88c62f5aca2ec077b9efad5efd87092\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e88c62f5aca2ec077b9efad5efd87092\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\406c12d4cfd1b693632064dad5c33ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\406c12d4cfd1b693632064dad5c33ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ca4fbd2b5a5637fe6945a5eb8f4af15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8ca4fbd2b5a5637fe6945a5eb8f4af15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb5657b0458ecb71f9535e17d90f9d14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb5657b0458ecb71f9535e17d90f9d14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\934bda01f6b75fbb5e0fc1ade14798d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\934bda01f6b75fbb5e0fc1ade14798d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\35183d6274b5d27468a31c4d94b854bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\35183d6274b5d27468a31c4d94b854bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c0a9751235348ff01e084e1bb9518ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c0a9751235348ff01e084e1bb9518ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c280fd0573c3aa5552254a7d112d24ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c280fd0573c3aa5552254a7d112d24ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c7fbf3967f05e5a083dbc2ab91680d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c7fbf3967f05e5a083dbc2ab91680d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa667cc4bb42891a4967083b569181cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa667cc4bb42891a4967083b569181cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f270934e0cb23a95f7869baec3d31355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f270934e0cb23a95f7869baec3d31355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\758bab5e00f3e87b0aa062ba548b23f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\758bab5e00f3e87b0aa062ba548b23f8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muham\Documents\AndroidProjects\TextualRPG\app\src\main\AndroidManifest.xml
